@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: CV_gabrielaraujo_2024.pdf
-description: 
+cv_pdf: gabriel_de_araujo_CV.pdf
+description:
 toc:
   sidebar: left
 ---
